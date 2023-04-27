@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**reona5/reona5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer.
 
-Here are some ideas to get you started:
+### 🧑‍💻 My skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My Skills](https://skillicons.dev/icons?i=ruby,rails,mysql,html,css,scss,js)
+
+![My Skills](https://skillicons.dev/icons?i=ts,vue,react,next,astro,vercel,go)
+
+![My Skills](https://skillicons.dev/icons?i=neovim,lua,aws,git,github,docker)
+
+### 📈 Status 
+
+![reona5's GitHub stats](https://github-readme-stats.vercel.app/api?username=reona5&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reona5&layout=compact&theme=radical)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=reona5&theme=radical&row=1&rank=-C)
+
+### 📝 Output
+
+[Twitter - @reona_5](https://twitter.com/reona_5) | [reona.dev](https://reona.dev)
