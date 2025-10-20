@@ -19,4 +19,4 @@ I'm a web developer.
 
 ### 📝 Output
 
-[GitHub - @mpg-reona-shimada](https://github.com/mpg-reona-shimada) | [Twitter - @reona_5](https://twitter.com/reona_5) | [Blog - reona.dev](https://reona.dev)
+[GitHub - @mpg-reona-shimada](https://github.com/mpg-reona-shimada) | [X - @reona_5](https://twitter.com/reona_5) | [Blog - reona.dev](https://reona.dev)
