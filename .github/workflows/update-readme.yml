@@ -1,0 +1,27 @@
+# README の登壇と記事の欄を、毎日最新 5 件に更新する。変わったときだけ commit する
+name: update-readme
+
+on:
+  schedule:
+    - cron: "0 12 * * *" # 毎日 21:00(日本時間)。夕方までの登壇がその日のうちに載る
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: node scripts/update-readme.mjs
+      - name: commit
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update talks and articles"
+          git push
