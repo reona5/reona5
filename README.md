@@ -29,7 +29,3 @@ I'm a web developer.
 <!-- ARTICLES:END -->
 
 [All articles →](https://dev.classmethod.jp/author/shimada-reona/)
-
-### 📝 Output
-
-[GitHub - @mpg-reona-shimada](https://github.com/mpg-reona-shimada) | [X - @reona_5](https://twitter.com/reona_5) | [Blog - reona.dev](https://reona.dev)
