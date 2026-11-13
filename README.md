@@ -22,11 +22,11 @@ I'm a web developer.
 ### ✍️ Articles on DevelopersIO
 
 <!-- ARTICLES:START -->
+- 2026-11-13 [NVIDIA OpenShell の sandbox で Claude Code と Codex をサブスクリプションのまま動かす](https://dev.classmethod.jp/articles/reona-openshell-claude-code-codex/)
 - 2026-11-04 [herdr のデスクトップアプリと herdr-core を TUI 版と比べながら試してみた](https://dev.classmethod.jp/articles/reona-herdr-app-herdr-core/)
 - 2026-10-31 [Superlogical の Rex の beta 版を試してみる](https://dev.classmethod.jp/articles/reona-superlogical-rex-beta-try/)
 - 2026-10-24 [「DGX Spark に AI エージェントを常駐させて、Slack で協働する」というタイトルで DevelopersIO 2026 Tokyo に登壇しました](https://dev.classmethod.jp/articles/reona-devio2026-dgx-spark-agent-talk/)
 - 2026-10-20 [「いつ終わるのか」から設計する ── Loop Engineering入門というタイトルで Claude Code セミナーに登壇しました](https://dev.classmethod.jp/articles/reona-claude-code-seminar-loop-engineering-talk/)
-- 2026-10-14 [PR の変更をグループ分けして要約する pulls.review を Claude Code で試してみた](https://dev.classmethod.jp/articles/reona-pulls-review-try/)
 <!-- ARTICLES:END -->
 
 [All articles →](https://dev.classmethod.jp/author/shimada-reona/)
